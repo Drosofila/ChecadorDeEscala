@@ -9,7 +9,7 @@ COMO USAR
 
 Se tem o python 3 instalado no computador e sabe executar scripts basta fazer o download do repositório e executar o checador.py.
 
-Se você não entendeu nada que eu escrevi até agora acesse o link https://replit.com/@drosophila/EscalaCheck?v=1 e clique em "RUN". Pode levar alguns segundos.
+Se você não entendeu nada que eu escrevi até agora acesse o [link](https://replit.com/@drosophila/EscalaCheck?v=1) e clique em "RUN". Pode levar alguns segundos.
 
 ***DISCLAIMER*** 
 
