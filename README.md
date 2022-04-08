@@ -11,6 +11,8 @@ Se tem o python 3 instalado no computador e sabe executar scripts basta fazer o 
 
 Se você não entendeu nada que eu escrevi até agora acesse o [link](https://replit.com/@drosophila/EscalaCheck?v=1) e clique em "RUN". Pode levar alguns segundos.
 
+Lembrando que as linhas informadas referenciam [essa escala](https://github.com/Drosofila/ChecadorDeEscala/raw/main/escala.xlsx)
+
 ***DISCLAIMER*** 
 
 EU NÃO GARANTO O FUNCIONAMENTO DESSA ABOMINAÇÃO
