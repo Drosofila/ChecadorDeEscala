@@ -1,0 +1,21 @@
+C -VISITA: plantão diurno serra ou pm / pré-natal manhã
+
+D -PRÉ-NATAL MANHÃ: plantão diurno serra ou pm / visita
+
+E -PRÉ-NATAL TARDE: plantão diurno serra ou pm
+
+F -PLANTÃO DIURNO PRÓ-MATRE: plantão diurno serra / plantões noturnos serra e pm / visita / pré natal manhã ou tarde
+
+G -PLANTÃO DIURNO SERRA: plantão diurno pm / plantões noturnos serra e pm / visita / pré natal manhã ou tarde
+
+H -PLANTÃO NOTURNO PRÓ-MATRE: plantão noturno serra / plantões diurnos serra e pm no mesmo dia e no dia seguinte / visita no dia seguinte / pré-natal manhã do dia seguinte
+
+I -PLANTÃO NOTURNO SERRA: plantão noturno pm / plantões diurnos serra e pm no mesmo dia e no dia seguinte / visita no dia seguinte / pré-natal manhã do dia seguinte
+
+C - F, G, D
+D - F, G, (C)
+E - F, G
+F - G, H, I, C, D, E
+G - F, H, I, C, D, E
+H - I, F, G, F+1, G+1, C+1, D+1
+I - H, F, G, F+1, G+1, C+1, D+1
