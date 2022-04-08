@@ -7,7 +7,7 @@ O script verifica se há infração nos limites da jornada de estudantes de medi
 
 **COMO USAR**
 
-Se tem o python 3 instalado no computador e sabe executar scripts basta fazer o download do repositório e executar o checador.py.
+Se tem o python 3 instalado no computador e sabe executar scripts basta fazer o [download do repositório](https://github.com/Drosofila/ChecadorDeEscala/archive/refs/heads/main.zip) e executar o checador.py.
 
 Se você não entendeu nada que eu escrevi até agora acesse o [link](https://replit.com/@drosophila/EscalaCheck?v=1) e clique em "RUN". Pode levar alguns segundos.
 
